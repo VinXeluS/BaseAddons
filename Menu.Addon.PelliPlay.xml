@@ -88,7 +88,7 @@
   </channels>
   
   
-  <channels>
+    <channels>
  
 <channel>
       <name>[COLOR orange][COLOR  lime]â€¢  [/COLOR] Documentales[/COLOR]</name>
@@ -98,9 +98,10 @@
    <externallink>https://pastebin.com/raw/v0vf0TSv</externallink>
 </channel>
   </channels>
+  
+  
 
-
-<channels>
+  <channels>
  
 <channel>
       <name>[COLOR orange][COLOR  lime]•  [/COLOR] Infantil[/COLOR]</name>
