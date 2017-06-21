@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,•   LA1 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/3863.ts
+#EXTINF:-1,MOVISTAR ACCION
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/3863.ts
