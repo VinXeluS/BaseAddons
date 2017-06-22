@@ -43,6 +43,18 @@
 <channels>
  
 <channel>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Tutoriales [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Youtube/Videos%20Recomendados.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
       <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Directos [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
