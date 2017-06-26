@@ -47,7 +47,7 @@
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Youtube/Videos%20Recomendados.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Youtube/Menu%20Tutoriales.xml</externallink>
 </channel>
   </channels>
 
@@ -59,6 +59,6 @@
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Youtube/Directos%20Youtube.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Youtube/Directos.xml</externallink>
 </channel>
   </channels>
